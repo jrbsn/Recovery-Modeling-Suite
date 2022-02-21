@@ -1,2 +1,4 @@
 # Recovery-Modeling-Suite
-Various recovery related calculators/simulators
+
+Calculators:
+- FxCalc: parachute inflation that predicts opening force
